@@ -30,7 +30,7 @@
 
 [Ethan/FallenGravity](mailto:ethan@ether1.org)
 
-[Community](mailto:community@ether1.org)\\\\
+[Community](mailto:community@ether1.org)
 
 ---
 
