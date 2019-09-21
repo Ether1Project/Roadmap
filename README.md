@@ -48,6 +48,8 @@ This WIP will add the ability for Service/Master/Gateway nodes to all run IPFS &
 
 **Expected Release Quater: Q4 2019**
 
+---
+
 #### [Decentralized Node Protocol](https://github.com/Ether1Project/Ether1/pull/10)
 
 Decentralized Node-Protocol will remove all centralized aspects to node deployment, management, monitoring, and reward payment.
@@ -92,5 +94,26 @@ today     13.75 GiB |   25.99 GiB |   39.74 GiB
 
 71.43% decrease in data usage.
 
+With DNP we are able to introduce support for Windows, Darwnin & ARM Nodes - though it was previously not a priority, you can read [this](https://) article for a better understanding of why we've introduced cross platform ethoFS.
+
 **Expected Release Quater: Q1 2020**
 
+---
+
+#### ethoFS Dashboard 
+
+For a while, we’ve felt that the ethoFS upload dashboard was not in line with the rest of our branding and UI style, FallenGravity has been working to push the entire ethoFS.com upgrade out. If you’d like to test out the dashboard it is available here: https://beta.ethofs.com/
+
+Another Major reason this update & refresh was done was to allow for self-hosting of the dashboard. We take our motto of Decentralized Everything very seriously and the upload dashboard as been hosted by the Ether-1 team since the initial release of ethoFS and this made it a possible point of failure, by allowing the user to host their own local copy of the dashboard we’ve lived up to our motto. If you’d like to host your own version of the ethoFS dashboard you can follow this guide: https://docs.ether1.org/ethofs/how-to-host-your-own-ethofs-dashboard-at-home-on-macos
+
+**Expected Release Quater: Q1 2020 - Is currently available in as a beta version. **
+
+---
+
+#### [Decentralized On-Chain Governance](https://github.com/Ether1Project/Ether1/pull/6)
+
+This is currently on hold until the deployment of DNP, whilst the nodes still rely on the Ether-1 team for payments and activation we cannot implement a Decentralized governance model as it just doesn’t make sense. If you’d like to learn more about our Decentralized Governance or get involved in its creation by providing feedback you can do so here: https://github.com/Ether1Project/Ether1/pull/6
+
+**Expected Release Quater: Currently Unknown - Requires: ethoFS upgrade as well as DNP**
+
+---
