@@ -117,3 +117,7 @@ This is currently on hold until the deployment of DNP, whilst the nodes still re
 **Expected Release Quater: Currently Unknown - Requires: ethoFS upgrade as well as DNP**
 
 ---
+
+#### Community Suggestions for Roadmap items
+
+None yet 
