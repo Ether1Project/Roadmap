@@ -106,7 +106,7 @@ For a while, we’ve felt that the ethoFS upload dashboard was not in line with 
 
 Another Major reason this update & refresh was done was to allow for self-hosting of the dashboard. We take our motto of Decentralized Everything very seriously and the upload dashboard as been hosted by the Ether-1 team since the initial release of ethoFS and this made it a possible point of failure, by allowing the user to host their own local copy of the dashboard we’ve lived up to our motto. If you’d like to host your own version of the ethoFS dashboard you can follow this guide: https://docs.ether1.org/ethofs/how-to-host-your-own-ethofs-dashboard-at-home-on-macos
 
-**Expected Release Quater: Q1 2020 - Is currently available in as a beta version.**
+**Expected Release Quater: Q1 2020 - Currently available in as a beta version.**
 
 ---
 
