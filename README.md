@@ -10,7 +10,7 @@
 
 [Treehouse](https://twitter.com/Cryptomark9) - Project Manager & Discord Support
 
-[Dylie](https://github.com/dylie) - Developer, Graphic Designer & Bot Manager
+[@Dylie](https://github.com/dylie) - Developer, Graphic Designer & Bot Manager
 
 [CoachCryptos](https://twitter.com/CoachCryptos) - Social Media & Marketing Manager
 
