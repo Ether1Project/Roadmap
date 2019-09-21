@@ -40,11 +40,11 @@
 
 This WIP will add the ability for Service/Master/Gateway nodes to all run IPFS & ethoFS to support our global ethoFS network.
 
-Service Nodes: The SN will provide bandwidth to the ethoFS network by hosting DHTs (Distributed Hash Table) which will allow for a quicker connection to data hosted on ethoFS, SNs Acts as a data relay and secures the Ether-1 blockchain.
+- Service Nodes: The SN will provide bandwidth to the ethoFS network by hosting DHTs (Distributed Hash Table) which will allow for a quicker connection to data hosted on ethoFS, SNs Acts as a data relay and secures the Ether-1 blockchain.
 
-Master Nodes: The MNs will act as a Bandwidth & Storage provider, MNs will host DHTs as well as store data hosted on ethoFS. MNs will also be responsible for processing power on ethoFS whilst further securing the chain.
+- Master Nodes: The MNs will act as a Bandwidth & Storage provider, MNs will host DHTs as well as store data hosted on ethoFS. MNs will also be responsible for processing power on ethoFS whilst further securing the chain.
 
-Gateway Nodes: Not much changes to the Gateway node, they provide: Processing power, Bandwidth, storage and the gateway to all data hosted on ethoFS.
+- Gateway Nodes: Not much changes to the Gateway node, they provide: Processing power, Bandwidth, storage and the gateway to all data hosted on ethoFS.
 
 **Expected Release Quater: Q4 2019**
 
@@ -52,15 +52,15 @@ Gateway Nodes: Not much changes to the Gateway node, they provide: Processing po
 
 Decentralized Node-Protocol will remove all centralized aspects to node deployment, management, monitoring, and reward payment.
 
-Improvements/Protocol Overview:
+**Improvements/Protocol Overview:**
 
-Node deployment/indexing will be via smart contract.
+1. Node deployment/indexing will be via smart contract.
 
-Node activity/availability will be verified at the time of reward payment via consensus protocol.
+2. Node activity/availability will be verified at the time of reward payment via consensus protocol.
 
-A random node will be selected & verified for payment at each block — addresses will be validated and scrubbed for a malicious activity via consensus.
+3. A random node will be selected & verified for payment at each block — addresses will be validated and scrubbed for a malicious activity via consensus.
 
-Individual node status monitoring capability will be available via a local dashboard/front-end installed during node deployment.
+4. Individual node status monitoring capability will be available via a local dashboard/front-end installed during node deployment.
 
 The DNP is being utilized on the Ether-1 Production Testnet known as [Xerom](https://xerom.org), we’ve made significant progress & are happy to report it is nearly ready for activation on Ether-1.
 
