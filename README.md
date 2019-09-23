@@ -36,15 +36,15 @@
 
 ## Road Map at a glance
 
-[] IPFS & ethoFS on all node tiers - Q4 2019
+- [ ] IPFS & ethoFS on all node tiers - Q4 2019
 
-[] Decentralized Node Protocol - Q1 2020
+- [ ] Decentralized Node Protocol - Q1 2020
 
-[] ethoFS Dashboard - Q1 2020 (CURRENTLY AVAILABLE AS A BETA)
+- [ ] ethoFS Dashboard - Q1 2020 (CURRENTLY AVAILABLE AS A BETA)
 
-[] Decentralized On-Chain Governance - N/A
+- [ ] Decentralized On-Chain Governance - N/A
 
-[] Orbit DB - N/A
+- [ ] Orbit DB - N/A
 
 ## Roadmap
 
