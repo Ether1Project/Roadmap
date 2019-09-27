@@ -122,6 +122,14 @@ Another Major reason this update & refresh was done was to allow for self-hostin
 
 * * *
 
+#### [Website Revamp](https://github.com/Ether1Project/Roadmap/issues/2)
+
+The Website Revamp will look at improving our SEO, Website UI & body copy.
+
+**Expected Release Quater: Q1 2020 (Latest)**
+
+* * *
+
 #### [Decentralized On-Chain Governance](https://github.com/Ether1Project/Ether1/pull/6)
 
 This is currently on hold until the deployment of DNP, whilst the nodes still rely on the Ether-1 team for payments and activation we cannot implement a Decentralized governance model as it just doesn’t make sense. If you’d like to learn more about our Decentralized Governance or get involved in its creation by providing feedback you can do so here: <https://github.com/Ether1Project/Ether1/pull/6>
