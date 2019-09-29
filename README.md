@@ -106,7 +106,7 @@ V0.0.2 - 24 Hours (Service Node)
 
 71.43% decrease in data usage.
 
-With DNP we are able to introduce support for Windows, Darwnin & ARM Nodes - though it was previously not a priority, you can read [this](https://) article for a better understanding of why we've introduced cross platform ethoFS.
+With DNP we can introduce support for Windows, Darwin & ARM Nodes - though it was previously not a priority, you can read [this](https://) article for a better understanding of why we've introduced cross-platform ethoFS.
 
 **Expected Release Quarter: Q1 2020**
 
@@ -114,9 +114,9 @@ With DNP we are able to introduce support for Windows, Darwnin & ARM Nodes - tho
 
 #### ethoFS Dashboard
 
-For a while, we’ve felt that the ethoFS upload dashboard was not in line with the rest of our branding and UI style, FallenGravity has been working to push the entire ethoFS.com upgrade out. If you’d like to test out the dashboard it is available here: <https://beta.ethofs.com/>
+For a while, we’ve felt that the ethoFS upload dashboard was not in line with the rest of our branding and UI style, FallenGravity has been working to push the entire ethoFS.com to upgrade out. If you’d like to test out the dashboard it is available here: <https://beta.ethofs.com/>
 
-Another Major reason this update & refresh was done was to allow for self-hosting of the dashboard. We take our motto of Decentralized Everything very seriously and the upload dashboard as been hosted by the Ether-1 team since the initial release of ethoFS and this made it a possible point of failure, by allowing the user to host their own local copy of the dashboard we’ve lived up to our motto. If you’d like to host your own version of the ethoFS dashboard you can follow this guide: <https://docs.ether1.org/ethofs/how-to-host-your-own-ethofs-dashboard-at-home-on-macos>
+Another Major reason this update & refresh was done was to allow for self-hosting of the dashboard. We take our motto of Decentralized Everything very seriously and the upload dashboard as been hosted by the Ether-1 team since the initial release of ethoFS and this made it a possible point of failure, by allowing the user to host a local copy of the dashboard we’ve lived up to our motto. If you’d like to host a copy of the ethoFS dashboard you can follow this guide: <https://docs.ether1.org/ethofs/how-to-host-your-own-ethofs-dashboard-at-home-on-macos>
 
 **Expected Release Quarter: Q1 2020 - Currently available in as a beta version.**
 
@@ -141,7 +141,7 @@ This is currently on hold until the deployment of DNP, whilst the nodes still re
 #### Community Suggestions for Roadmap items
 
 | Name                                                                | Requester     | Status      | In-house/Out-sourced | Expected Release Quarter |
-| ------------------------------------------------------------------- | ------------- | ----------- | -------------------- | ----------------------- |
-| [Orbit DB](https://github.com/Ether1Project/Roadmap/issues/1)       | FallenGravity | Open        | N/A                  | N/A                     |
-| [Website Revamp](https://github.com/Ether1Project/Roadmap/issues/2) | FallenGravity | In Progress | In-House             | Latest: Q1 2020         |
-|                                                                     |               |             |                      |                         |
+| ------------------------------------------------------------------- | ------------- | ----------- | -------------------- | ------------------------ |
+| [Orbit DB](https://github.com/Ether1Project/Roadmap/issues/1)       | FallenGravity | Open        | N/A                  | N/A                      |
+| [Website Revamp](https://github.com/Ether1Project/Roadmap/issues/2) | FallenGravity | In Progress | In-House             | Latest: Q1 2020          |
+|                                                                     |               |             |                      |                          |
