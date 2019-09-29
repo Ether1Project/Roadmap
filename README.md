@@ -42,6 +42,8 @@
 
 -   [ ] ethoFS Dashboard - Q1 2020 (CURRENTLY AVAILABLE AS A BETA)
 
+-   [ ] Website Revamp - Q1 2020 (latest)
+
 -   [ ] Decentralized On-Chain Governance - N/A
 
 -   [ ] Orbit DB - N/A
