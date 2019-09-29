@@ -58,7 +58,7 @@ This WIP will add the ability for Service/Master/Gateway nodes to all run IPFS &
 
 -   Gateway Nodes: Not much changes to the Gateway node, they provide: Processing power, Bandwidth, storage and the gateway to all data hosted on ethoFS.
 
-**Expected Release Quater: Q4 2019**
+**Expected Release Quarter: Q4 2019**
 
 * * *
 
@@ -108,7 +108,7 @@ V0.0.2 - 24 Hours (Service Node)
 
 With DNP we are able to introduce support for Windows, Darwnin & ARM Nodes - though it was previously not a priority, you can read [this](https://) article for a better understanding of why we've introduced cross platform ethoFS.
 
-**Expected Release Quater: Q1 2020**
+**Expected Release Quarter: Q1 2020**
 
 * * *
 
@@ -118,7 +118,7 @@ For a while, we’ve felt that the ethoFS upload dashboard was not in line with 
 
 Another Major reason this update & refresh was done was to allow for self-hosting of the dashboard. We take our motto of Decentralized Everything very seriously and the upload dashboard as been hosted by the Ether-1 team since the initial release of ethoFS and this made it a possible point of failure, by allowing the user to host their own local copy of the dashboard we’ve lived up to our motto. If you’d like to host your own version of the ethoFS dashboard you can follow this guide: <https://docs.ether1.org/ethofs/how-to-host-your-own-ethofs-dashboard-at-home-on-macos>
 
-**Expected Release Quater: Q1 2020 - Currently available in as a beta version.**
+**Expected Release Quarter: Q1 2020 - Currently available in as a beta version.**
 
 * * *
 
@@ -126,7 +126,7 @@ Another Major reason this update & refresh was done was to allow for self-hostin
 
 The Website Revamp will look at improving our SEO, Website UI & body copy.
 
-**Expected Release Quater: Q1 2020 (Latest)**
+**Expected Release Quarter: Q1 2020 (Latest)**
 
 * * *
 
@@ -134,13 +134,13 @@ The Website Revamp will look at improving our SEO, Website UI & body copy.
 
 This is currently on hold until the deployment of DNP, whilst the nodes still rely on the Ether-1 team for payments and activation we cannot implement a Decentralized governance model as it just doesn’t make sense. If you’d like to learn more about our Decentralized Governance or get involved in its creation by providing feedback you can do so here: <https://github.com/Ether1Project/Ether1/pull/6>
 
-**Expected Release Quater: Currently Unknown - Requires: ethoFS upgrade as well as DNP**
+**Expected Release Quarter: Currently Unknown - Requires: ethoFS upgrade as well as DNP**
 
 * * *
 
 #### Community Suggestions for Roadmap items
 
-| Name                                                                | Requester     | Status      | In-house/Out-sourced | Expected Release Quater |
+| Name                                                                | Requester     | Status      | In-house/Out-sourced | Expected Release Quarter |
 | ------------------------------------------------------------------- | ------------- | ----------- | -------------------- | ----------------------- |
 | [Orbit DB](https://github.com/Ether1Project/Roadmap/issues/1)       | FallenGravity | Open        | N/A                  | N/A                     |
 | [Website Revamp](https://github.com/Ether1Project/Roadmap/issues/2) | FallenGravity | In Progress | In-House             | Latest: Q1 2020         |
