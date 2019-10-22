@@ -50,7 +50,7 @@
 
 ## Roadmap
 
-#### [IPFS & ethoFS on all node tiers](https://github.com/Ether1Project/ether1-node-scripts/pull/4)
+#### [IPFS & ethoFS on all node tiers](https://github.com/Ether1Project/ether1-node-scripts/pull/4)[COMPLETED]
 
 This WIP will add the ability for Service/Master/Gateway nodes to all run IPFS & ethoFS to support our global ethoFS network.
 
@@ -60,7 +60,7 @@ This WIP will add the ability for Service/Master/Gateway nodes to all run IPFS &
 
 -   Gateway Nodes: Not much changes to the Gateway node, they provide: Processing power, Bandwidth, storage and the gateway to all data hosted on ethoFS.
 
-**Expected Release Quarter: Q4 2019**
+**Release Date: 10/06/2019 - [Trinity](https://medium.com/@Ether1Official/ethofs-on-all-nodes-its-here-1ffcadf763e)**
 
 * * *
 
@@ -110,11 +110,11 @@ V0.0.2 - 24 Hours (Service Node)
 
 With DNP we can introduce support for Windows, Darwin & ARM Nodes - though it was previously not a priority, you can read [this](https://) article for a better understanding of why we've introduced cross-platform ethoFS.
 
-**Release Date: 10/06/2019 - [Trinity](https://medium.com/@Ether1Official/ethofs-on-all-nodes-its-here-1ffcadf763e) **
+**Expected Release Quarter: Q4 2019**
 
 * * *
 
-#### ethoFS Dashboard
+#### ethoFS Dashboard [COMPLETED]
 
 For a while, we’ve felt that the ethoFS upload dashboard was not in line with the rest of our branding and UI style, FallenGravity has been working to push the entire ethoFS.com to upgrade out. If you’d like to test out the dashboard it is available here: <https://beta.ethofs.com/>
 
