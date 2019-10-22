@@ -54,6 +54,14 @@ Please see the relevant documentation for completed items:
 
 [Q4 - 2019](https://github.com/Ether1Project/Roadmap/blob/master/Q4-2019.md) 
 
+[Q1 - 2020](https://github.com/Ether1Project/Roadmap/blob/master/Q1-2020.md)
+
+[Q2 - 2020](https://github.com/Ether1Project/Roadmap/blob/master/Q2-2020.md)
+
+[Q3 - 2020](https://github.com/Ether1Project/Roadmap/blob/master/Q3-2020.md) 
+
+[Q4 - 2020](https://github.com/Ether1Project/Roadmap/blob/master/Q4-2020.md) 
+
 * * *
 
 ## Roadmap
