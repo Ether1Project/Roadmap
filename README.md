@@ -48,19 +48,15 @@
 
 -   [ ] Orbit DB - N/A
 
+## Completed Items:
+
+Please see the relevant documentation for completed items:
+
+[Q4 - 2019](https://github.com/Ether1Project/Roadmap/blob/master/Q4-2019.md) 
+
+* * *
+
 ## Roadmap
-
-#### [IPFS & ethoFS on all node tiers](https://github.com/Ether1Project/ether1-node-scripts/pull/4) [COMPLETED]
-
-This WIP will add the ability for Service/Master/Gateway nodes to all run IPFS & ethoFS to support our global ethoFS network.
-
--   Service Nodes: The SN will provide bandwidth to the ethoFS network by hosting DHTs (Distributed Hash Table) which will allow for a quicker connection to data hosted on ethoFS, SNs Acts as a data relay and secures the Ether-1 blockchain.
-
--   Master Nodes: The MNs will act as a Bandwidth & Storage provider, MNs will host DHTs as well as store data hosted on ethoFS. MNs will also be responsible for processing power on ethoFS whilst further securing the chain.
-
--   Gateway Nodes: Not much changes to the Gateway node, they provide: Processing power, Bandwidth, storage and the gateway to all data hosted on ethoFS.
-
-**Release Date: 10/06/2019 - [Trinity](https://medium.com/@Ether1Official/ethofs-on-all-nodes-its-here-1ffcadf763e)**
 
 * * *
 
