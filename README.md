@@ -50,7 +50,7 @@
 
 ## Roadmap
 
-#### [IPFS & ethoFS on all node tiers](https://github.com/Ether1Project/ether1-node-scripts/pull/4)[COMPLETED]
+#### [IPFS & ethoFS on all node tiers](https://github.com/Ether1Project/ether1-node-scripts/pull/4) [COMPLETED]
 
 This WIP will add the ability for Service/Master/Gateway nodes to all run IPFS & ethoFS to support our global ethoFS network.
 
