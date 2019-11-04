@@ -48,6 +48,8 @@
 
 -   [ ] Orbit DB - N/A
 
+-   [ ] SSL Cluser - Q4 2019
+
 ## Completed Items:
 
 Please see the relevant documentation for completed items:
@@ -113,6 +115,14 @@ V0.0.2 - 24 Hours (Service Node)
 71.43% decrease in data usage.
 
 With DNP we can introduce support for Windows, Darwin & ARM Nodes - though it was previously not a priority, you can read [this](https://) article for a better understanding of why we've introduced cross-platform ethoFS.
+
+**Expected Release Quarter: Q4 2019**
+
+* * *
+
+#### [SSL Cluster](https://medium.com/@Ether1Official/ether-1-development-update-5-f53ab2f7c5d0)
+
+After thinking about the concept of decentralized SSL for a while, we’ve begun working on an SSL cluster. Unfortunately, SSL was designed to be centralized. This means we are utilizing a partially decentralized approach for the SSL cluster. The SSL cluster runs on 20 gateway nodes and at current capacity can hold 1,048,576,000 SSL certificates. The SSL cluster is used to hold the websites SSL Certs and then uses Nginx load balancing to direct the user to a gateway node hosting the website with SSL enabled.
 
 **Expected Release Quarter: Q4 2019**
 
