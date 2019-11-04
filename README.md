@@ -98,25 +98,9 @@ The DNP is being utilized on the Ether-1 Production Testnet known as [Xerom](htt
 -   Decerease in data usage
 -   Better Peer Discover and communication
 
-**Data Usage Decrease:**
+With DNP we can introduce support for Windows, Darwin & ARM Nodes - though it was previously not a priority, you can read [this](https://medium.com/@Ether1Official/xerom-decentralized-node-protocol-dnp-fork-fundamental-decentralization-4a73309b06ed) article for a better understanding of why we've introduced cross-platform ethoFS.
 
-V0.0.1 - 24 Hours (Service Node)
-
-                rx      |     tx      |    total    
-    ------------------------+-------------+---------
-    today     75.95 GiB |   63.15 GiB |  139.10 GiB
-
-V0.0.2 - 24 Hours (Service Node)
-
-                rx      |     tx      |    total    
-    ------------------------+-------------+---------
-    today     13.75 GiB |   25.99 GiB |   39.74 GiB
-
-71.43% decrease in data usage.
-
-With DNP we can introduce support for Windows, Darwin & ARM Nodes - though it was previously not a priority, you can read [this](https://) article for a better understanding of why we've introduced cross-platform ethoFS.
-
-**Expected Release Quarter: Q4 2019**
+**Expected Release Quarter: Q2 2020**
 
 * * *
 
